@@ -1,5 +1,3 @@
-# NO LONGER WORKS
-
 # grabify go brrr
 a boring but cool way to bomb a grabify link with useless ip addresses.
 
